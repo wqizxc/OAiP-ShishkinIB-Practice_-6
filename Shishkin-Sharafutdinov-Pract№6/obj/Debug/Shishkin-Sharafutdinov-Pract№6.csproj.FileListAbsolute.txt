@@ -1,0 +1,7 @@
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\Shishkin-Sharafutdinov-Pract№6\bin\Debug\Shishkin-Sharafutdinov-Pract№6.exe.config
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\Shishkin-Sharafutdinov-Pract№6\bin\Debug\Shishkin-Sharafutdinov-Pract№6.exe
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\Shishkin-Sharafutdinov-Pract№6\bin\Debug\Shishkin-Sharafutdinov-Pract№6.pdb
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\Shishkin-Sharafutdinov-Pract№6\obj\Debug\Shishkin-Sharafutdinov-Pract№6.csproj.AssemblyReference.cache
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\Shishkin-Sharafutdinov-Pract№6\obj\Debug\Shishkin-Sharafutdinov-Pract№6.csproj.CoreCompileInputs.cache
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\Shishkin-Sharafutdinov-Pract№6\obj\Debug\Shishkin-Sharafutdinov-Pract№6.exe
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\Shishkin-Sharafutdinov-Pract№6\obj\Debug\Shishkin-Sharafutdinov-Pract№6.pdb
